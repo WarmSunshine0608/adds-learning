@@ -41,7 +41,8 @@
 *.su
 *.idb
 *.pdb
-
+# vscode generated file
+.vscode/*
 # Kernel Module Compile Results
 *.mod*
 *.cmd
